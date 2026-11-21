@@ -1,0 +1,73 @@
+{
+ "generated": "scripts/check.sh",
+ "tree": [
+  {
+   "path": "photos/01-inmobiliaria",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "68279459a144948196f502b9c7b58ccf278bc9ad"
+  },
+  {
+   "path": "photos/01-inmobiliaria/01-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "63d5ac2340634a2d535f5e6ca1e8152c741de5df",
+   "size": 1443279
+  },
+  {
+   "path": "photos/01-inmobiliaria/02-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1360d11318307c439bdd78c20392030526defed5",
+   "size": 1341686
+  },
+  {
+   "path": "photos/01-inmobiliaria/03-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3727de118231212d7e2866be50fada3d8e94cea2",
+   "size": 1677988
+  },
+  {
+   "path": "photos/01-inmobiliaria/info.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "07c974f794635f74cd2d44f46c936679ae2347c5",
+   "size": 181
+  },
+  {
+   "path": "photos/01-inmobiliaria/thumbs",
+   "mode": "040000",
+   "type": "tree",
+   "sha": "8ca2273012837709e55e67fb1c573bf82cc70066"
+  },
+  {
+   "path": "photos/01-inmobiliaria/thumbs/01-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f21af3d718d3619544d4ba84c5bd7f3599234b87",
+   "size": 47898
+  },
+  {
+   "path": "photos/01-inmobiliaria/thumbs/02-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "61d930b71bb724fe3b5d62ea71ced3270e40b02d",
+   "size": 60779
+  },
+  {
+   "path": "photos/01-inmobiliaria/thumbs/03-inmobiliaria.jpg",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f8e16a6fc89fd921c842ff8089b2aa8d8ec7808b",
+   "size": 88010
+  },
+  {
+   "path": "photos/01-inmobiliaria/videos.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5164a561b11ef0231cf7bc7c5856279ad3ee3f4d",
+   "size": 336
+  }
+ ]
+}
